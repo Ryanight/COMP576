@@ -4,3 +4,4 @@ print ('hello')
 a = 10
 print np.ndim(a)
 np.size(a)
+#change
